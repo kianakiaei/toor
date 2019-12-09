@@ -1,12 +1,11 @@
 import React from "react";
 import "./App.css";
-import Home from "./components/Home";
-import NavPast from "./components/NavPast";
+import Nav from "./components/Nav";
 
 function App() {
   return (
     <div>
-      <NavPast />
+      <Nav />
     </div>
   );
 }
